@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou um iniciante na áreaa da progamação.<br>🌱 Busco aprendizado como desenvolvedor de software.<br>
+🔭 Sou um iniciante na área da progamação.<br>🌱 Busco aprendizado como desenvolvedor de software.<br>
 
  
 
