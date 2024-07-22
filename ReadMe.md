@@ -1,9 +1,7 @@
 # 💫 About Me:
 🔭 Sou um iniciante na aréa da progamação.<br>🌱 Busco aprendizado como desenvolvedor de software.<br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lyndomar_costa/) 
+ 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
